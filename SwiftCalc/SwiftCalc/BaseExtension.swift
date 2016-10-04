@@ -26,6 +26,7 @@ extension Double {
     
     // TODO: Make the string human readable!
     var prettyOutput: String {
+        
         /* SPECS:
             1. Returns a max of 7 characters (including any decimal point / negative sign).
             2. Do not include any leading zeros or trailing zeros.
